@@ -1,5 +1,8 @@
 - konten 1
   * javascript
+    - react
+    - vue
 - konten 2
 - konten 3
 - konten 4
+- konten python
