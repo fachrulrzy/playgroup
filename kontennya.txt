@@ -1,7 +1,9 @@
 - konten 1
   * javascript
-    - angular
     - react
+    - vue
 - konten 2
   * laravel
 - konten 3
+- konten 4
+- konten python
